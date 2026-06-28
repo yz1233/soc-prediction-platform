@@ -1,7 +1,5 @@
 """
-run_v10_final_v4.py — 基于 v3 的改进
-===================================
-v4 修改:
+soc-prediction.py:
   1. BandSelection 上图: GA-PLS 红色散点改为方形标记 (marker='s')
   2. BandSelection 下图: stem 图 (vlines) 改为折线形式
   3. 输入文件: D:\高光谱\251204\新建模数据.xlsx
